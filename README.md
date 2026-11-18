@@ -14,4 +14,5 @@ BIM Manager by day · building fast, ad-free web tools off the clock.
 - **[Cups & Quarts](https://cupsnquarts.pages.dev)** — Kitchen converter for cups, grams, oven temperatures, and pan sizes. ([repo](https://github.com/MarcusTravis/kitchen-converter))
 - **[Date Calculator](https://dayspan.pages.dev)** — Date spans, exact age, business days, and live countdowns. ([repo](https://github.com/MarcusTravis/date-calculator))
 - **[Tire Size Tool](https://tiresizing.pages.dev)** — Side-by-side tire size comparison and metric/inch conversion. ([repo](https://github.com/MarcusTravis/tire-size-tool))
+- **[Safety Tool Chart](https://safetytoolchart.pages.dev)** — Fall protection gear reference library for harnesses, lanyards, SRLs, and anchors. ([repo](https://github.com/MarcusTravis/safetytoolchart))
 - **[ThinkyBuildy](https://thinkybuildy.com)** — Home page for these free, ad-free web tools. ([repo](https://github.com/MarcusTravis/thinkybuildy-site))
