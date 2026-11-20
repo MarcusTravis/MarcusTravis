@@ -15,4 +15,6 @@ BIM Manager by day · building fast, ad-free web tools off the clock.
 - **[Date Calculator](https://dayspan.pages.dev)** — Date spans, exact age, business days, and live countdowns. ([repo](https://github.com/MarcusTravis/date-calculator))
 - **[Tire Size Tool](https://tiresizing.pages.dev)** — Side-by-side tire size comparison and metric/inch conversion. ([repo](https://github.com/MarcusTravis/tire-size-tool))
 - **[Safety Tool Chart](https://safetytoolchart.pages.dev)** — Fall protection gear reference library for harnesses, lanyards, SRLs, and anchors. ([repo](https://github.com/MarcusTravis/safetytoolchart))
+- **[Prep Chart](https://bugoutchart.pages.dev)** — Emergency prep and survival reference library for bug-out bags, water/food, backup power, gear, and scenarios. ([repo](https://github.com/MarcusTravis/prepchart))
+- **[AI Model Chart](https://aimodelchart.pages.dev)** — Daily tracker of popular AI models and how smart they are. ([repo](https://github.com/MarcusTravis/aimodelchart))
 - **[ThinkyBuildy](https://thinkybuildy.com)** — Home page for these free, ad-free web tools. ([repo](https://github.com/MarcusTravis/thinkybuildy-site))
